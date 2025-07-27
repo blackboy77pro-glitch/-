@@ -1,7 +1,12 @@
 [
-    { "value": "500k", "percentage": 70, "color": "#a9d6e5" },
-    { "value": "1m", "percentage": 60, "color": "#89c2d9" },
-    { "value": "2m", "percentage": 50, "color": "#61a5c2" },
-    { "value": "3m", "percentage": 40, "color": "#468faf" },
-    { "value": "5m", "percentage": 30, "color": "#2c7da0" }
+    { "value": "100 credit", "percentage": 70, "color": "#a9d6e5" },
+    { "value": "300 credit", "percentage": 65, "color": "#89c2d9" },
+    { "value": "500 credit ", "percentage": 60, "color": "#61a5c2" },
+    { "value": "750 credit ", "percentage": 55, "color": "#468faf" },
+    { "value": "1k credit ", "percentage": 50, "color": "#2c7da0" },
+    { "value": "15b gag ", "percentage": 23, "color": "#2c7da0" },
+    { "value": "30 gag ", "percentage": 20, "color": "#2c7da0" },
+    { "value": "100b gag ", "percentage": 15, "color": "#2c7da0" },
+    { "value": "moon cat gag", "percentage": 5, "color": "#2c7da0" },
+    { "value": "Buddha blox fruit  ", "percentage": 3, "color": "#2c7da0" }
 ]
